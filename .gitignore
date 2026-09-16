@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Ficheros generados por los ejercicios (se crean y borran en tiempo de ejecución)
+*.txt
+!requirements.txt
+datos.json
+datos.xml
+ventas.txt
+propositos.txt
+*.zip
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.idea/
+.vscode/
